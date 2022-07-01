@@ -11,6 +11,12 @@ Sistema de Simplificación de captura de remitos para reemplazar las planillas.
 -   Carga de Direcciones
 -   Asignaciones de días de reparto
 
+## TO-DO
+
+-   Permisos de usuarios y areas de control
+-   Creación de facturas
+-   Link con AFIP
+
 ## Tecnología
 
 -   Laravel
